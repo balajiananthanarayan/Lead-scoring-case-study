@@ -1,1 +1,3 @@
-# Lead-scoring-case-study
+# Lead-scoring-case-study 
+When visitors provide their email addresses or phone numbers via these forms, they are classified as leads. Additionally, the company receives leads through past referral. Once leads are acquired, the sales team engages with them through calls and emails. However, despite acquiring a significant number of leads, X Education's lead conversion rate is relatively low, averaging around 30%. For instance, out of 100 leads acquired in a day, only about 30 are converted into customers. To improve efficiency, X Education aims to identify the most promising leads, referred to as 'Hot Leads.'
+
